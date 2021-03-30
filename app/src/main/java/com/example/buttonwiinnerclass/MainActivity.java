@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public void onClick(View view) {
-            mTextview1.setText("You clicked YH's button!");
+            mTextview1.setText("You clicked 2nd button");
         }
     }
 
